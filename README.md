@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/67132916/212448427-d70eceb9-b59b-49f9-
 Clone this project
 
 ```bash
-  git clone git@github.com:Santosl2/wpp-chatgpt.git
+
 ```
 
 Enter in repository project folder
